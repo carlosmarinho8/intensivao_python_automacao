@@ -3,7 +3,7 @@
 
 esse projeto foi desenvolvido no jupyter notebook usando sistema operacional linux mint
 
-### bibliotecas usadas:
+### Bibliotecas usadas:
 * pyautogui: Ferramenta de automação
 (Python assume controle do seu teclado por
 exemplo)
@@ -25,7 +25,7 @@ pandas - para acessar base de dados
 * pyautogui.click() -serve para clicar com o mouse
 * ,.2f - serve para colocar a virgula como separador de milhas e colocar 2 casas decimais
 
-### formulas do pandas:
+### Fórmulas do pandas:
 * pd.read_excel() - serve para acessa a base de dados do arquivo excel
 
 
