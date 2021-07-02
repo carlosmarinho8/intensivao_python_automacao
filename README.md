@@ -7,9 +7,9 @@ esse projeto foi desenvolvido no jupyter notebook usando sistema operacional lin
 pyautogui: Ferramenta de automação
 (Python assume controle do seu teclado por
 exemplo)
-• time: Facilita no desenvolvimento de códigos
+* time: Facilita no desenvolvimento de códigos
 que envolvem tempo, tempo de espera etc...;
-• pyperclip: Permite copiar e colar via Python.
+* pyperclip: Permite copiar e colar via Python.
 pandas - para acessar base de dados
 
 ### Arquivos usados:
