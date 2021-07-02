@@ -42,7 +42,7 @@ time.sleep(15)
 
 pyautogui.click(x=71, y=184)
 time.sleep(10)
-email = 'henriquemarinho65@gmail.com'
+email = 'pythonimpressionador+diretoria@gmail.com'
 pyperclip.copy(email)
 pyautogui.hotkey('ctrl', 'v')
 pyautogui.press('tab')
