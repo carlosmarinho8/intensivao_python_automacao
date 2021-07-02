@@ -10,7 +10,7 @@ exemplo)
 * time: Facilita no desenvolvimento de códigos
 que envolvem tempo, tempo de espera etc...;
 * pyperclip: Permite copiar e colar via Python.
-pandas - para acessar base de dados
+* pandas - para acessar base de dados
 
 ### Arquivos usados:
 * planilha de vendas do excel
